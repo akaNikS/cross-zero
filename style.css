@@ -1,0 +1,31 @@
+
+table {
+    width: 300px; height: 300px;
+    border: 1px solid black;
+    margin: auto;
+}
+td {
+    margin: auto;
+    font-size: 30px;
+    padding: 9px px;
+    border: 1px solid black;
+    text-align: center;
+    Width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+h1 {
+    text-align: center;
+}
+button {
+    display: block;
+    margin:  auto;
+    border: 1px solid #000;
+    background: #ffffff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+p.win {
+    text-align: center;
+    font-size: 22px;
+}
